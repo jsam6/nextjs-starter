@@ -17,6 +17,7 @@
     "react-animate-height": "^3.2.3",
     "react-dom": "^18",
     "react-perfect-scrollbar": "^1.5.8",
+    "react-popper": "^2.3.0",
     "react-redux": "^9.1.2",
     "universal-cookie": "^6.1.1"
   },

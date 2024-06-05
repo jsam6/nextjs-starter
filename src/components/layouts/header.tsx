@@ -32,7 +32,7 @@ import IconMenuForms from '@/src/components/icon/menu/icon-menu-forms';
 import IconMenuPages from '@/src/components/icon/menu/icon-menu-pages';
 import IconMenuMore from '@/src/components/icon/menu/icon-menu-more';
 import { usePathname, useRouter } from 'next/navigation';
-import { getTranslation } from '@/src/i18n';
+import { getTranslation } from '@/i18n';
 
 const Header = () => {
     const pathname = usePathname();
